@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      rutuj
-#
-# Created:     15-01-2024
-# Copyright:   (c) rutuj 2024
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+
 import requests
 
 def getWeather(api_key,location):
